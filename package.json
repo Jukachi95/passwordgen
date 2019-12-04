@@ -1,0 +1,16 @@
+{
+  "name": "PasswordGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://jukachi95.github.io/passwordgen",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
